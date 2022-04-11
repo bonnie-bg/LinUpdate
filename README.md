@@ -1,5 +1,7 @@
 # LinuxUpdate
-update linux scripts
-sudo chmod +x Update.sh
+#update linux scripts
+**
+_sudo chmod +x Update.sh
 sudo bash Update.sh or 
-sudo ./Update.sh
+sudo ./Update.sh_****
+**
